@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Je suis développeur logiciel Back End (Java), passionné de système d'informations et ingénierie des exigences. J'ai une veritable passion pour le framwork Spring et ces différents projets mais mon préféré reste Spring Batch 🥰
+
 <!--
 **iceRonel/iceRonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
