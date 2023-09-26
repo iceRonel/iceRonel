@@ -4,7 +4,7 @@ Je suis développeur logiciel Back End (Java), passionné de système d'informat
 
 I am a Back End software developer (Java), passionate about information systems, requirements engineering, modelling (UML,MERISE, etc...). I have a certain enthusiasm for the Spring framework and its various projects, but my favourite is Spring Batch 🥰
 
-### Connect with me
+### 🤝Connect with me
 - LinkedIn: https://www.linkedin.com/in/ronel-kontchou-8571671b8/
 <!--
 **iceRonel/iceRonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
